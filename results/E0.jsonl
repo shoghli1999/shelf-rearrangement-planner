@@ -1,0 +1,6 @@
+{"motions": 1200, "valid_both": 1118, "valid_only_planner": 0, "valid_only_fine": 0, "pairs": 216892, "unsafe": 0, "extra": 627, "exp": "E0", "poses": 195, "n": 12, "seed": 20090, "lying": 0.0, "width": 1.0, "pillars": false}
+{"motions": 1200, "valid_both": 1104, "valid_only_planner": 0, "valid_only_fine": 0, "pairs": 313536, "unsafe": 0, "extra": 1309, "exp": "E0", "poses": 285, "n": 12, "seed": 20091, "lying": 0.3, "width": 1.0, "pillars": false}
+{"motions": 1200, "valid_both": 1112, "valid_only_planner": 0, "valid_only_fine": 0, "pairs": 315808, "unsafe": 0, "extra": 1264, "exp": "E0", "poses": 285, "n": 12, "seed": 20092, "lying": 0.6, "width": 1.0, "pillars": false}
+{"motions": 1200, "valid_both": 1051, "valid_only_planner": 0, "valid_only_fine": 0, "pairs": 248036, "unsafe": 0, "extra": 1176, "exp": "E0", "poses": 237, "n": 12, "seed": 20093, "lying": 0.3, "width": 0.8, "pillars": false}
+{"motions": 1200, "valid_both": 887, "valid_only_planner": 0, "valid_only_fine": 0, "pairs": 217315, "unsafe": 0, "extra": 1059, "exp": "E0", "poses": 246, "n": 12, "seed": 20095, "lying": 0.3, "width": 1.0, "pillars": true}
+{"motions": 1200, "valid_both": 1114, "valid_only_planner": 0, "valid_only_fine": 0, "pairs": 354252, "unsafe": 0, "extra": 1296, "exp": "E0", "poses": 319, "n": 12, "seed": 20094, "lying": 0.3, "width": 1.1, "pillars": false}

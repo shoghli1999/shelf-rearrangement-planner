@@ -1,0 +1,7 @@
+numpy
+scipy
+ortools
+networkx
+matplotlib
+arabic-reshaper
+python-bidi

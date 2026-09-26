@@ -80,7 +80,7 @@ print(R.verify(inst, res.actions))       # (True, 'ok')
 
 Every instance comes from a fixed random seed, and CP-SAT runs with one worker and a fixed seed. Because the solver works under time limits, run times and, in rare cases, plans can differ slightly on another machine.
 
-The figures are labelled in Persian, as in the thesis, and use the Vazirmatn font in `fonts/` (SIL Open Font License).
+The figures are labelled in Persian, as in the thesis, and use the Vazirmatn font in `fonts/` (SIL Open Font License, see `fonts/OFL.txt`).
 
 ## Tech
 
